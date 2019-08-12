@@ -132,11 +132,11 @@ end
 #   end
 # end
 
-def reduce_to_any_true(array)
-  current_element = 0
-  while current_element < array.length
-  if array[current_element] != true
-    return false
-  end
-end
-end
+# def reduce_to_any_true(array)
+#   current_element = 0
+#   while current_element < array.length
+#   if array[current_element] != true
+#     return false
+#   end
+# end
+# end
